@@ -1,0 +1,5 @@
+package com.example.testproj.datasources
+
+interface CharactersRemoteDataSource
+
+class CharactersRemoteDataSourceImpl
